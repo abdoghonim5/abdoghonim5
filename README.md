@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=The-Ghonim&icon=0&color=6)](https://visitcount.itsvg.in)
 # 💫 About Me:
-👋 Hello , I'm Abdo Ghonim  <br>📀 I’m a Commerce graduate making a career shift into Frontend Developm.ent<br>🔍I would love to be a professional programmer, especially in the front-end.<br>📧 You can Contact me Via Email : thegonim@zohomail.com.<br>📱 You can also contact me directly : 01017633255 .<br>
+👋 Hello , I'm Abdo Ghonim  <br>📀 I’m a Commerce graduate making a career shift into Frontend Developm.ent<br>🔍I would love to be a professional programmer, especially in the front-end.<br>📧 You can Contact me Via Email : abdoghonim15@zohomail.com.<br>📱 You can also contact me directly : 01017633255 .<br>
 
 
 ## 🌐 Socials:
